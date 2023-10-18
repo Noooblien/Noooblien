@@ -1,7 +1,7 @@
 ### <div align="center">Hey folks! I'm Noooblien, a blockchain developer based in India. 🇮🇳 Specializing in Golang, Rust, JS, and TS, I've got the skills to make your decentralized dreams a reality. 🐧 </div>  
   
 
-- 🔭 I’m currently working on [ Airchainns](https://airchains.io/)  
+- 🔭 I’m currently working on [ Airchains](https://airchains.io/)  
   
 
 - 🌱 I’m currently learning Arch   

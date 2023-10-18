@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hey folks! I'm Noooblien, a blockchain developer based in India. 🇮🇳 Specializing in Golang, Rust, JS, and TS, I've got the skills to make your decentralized dreams a reality. 🐧 </div>  
   
 
@@ -144,8 +139,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
 <br/>  
 
@@ -169,5 +162,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

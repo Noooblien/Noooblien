@@ -1,66 +1,38 @@
 # Noooblien
 
-I work on execution layers, zk systems, and infra that has to handle real load.
+Building the trust layer for AI agents that actually execute.
 
 ---
 
-## Stuff I'm building
+### Currently
 
-**zkEVM prover**
-Trying to actually prove EVM execution end-to-end. Not just small circuits — full state transitions, batching, making it practical.
+**Lead Blockchain Engineer (AI + Web3)** @ InfraSingularity
 
-**ScanX**
-Indexer for multiple EVM chains.
-Stores everything — blocks, txs, logs, traces.
-Built for speed because most indexers are slow or incomplete.
+Cryptographic identity + intent-scoped authorization for multi-agent systems.  
+ZK-based proofs so agents can act, but only within hard boundaries that can be audited.
 
-**Sentinel**
-Execution proxy layer.
-Mostly about keeping things modular and not tightly coupled.
-
-**Code Intelligence Engine**
-Parses large codebases into structured graphs (calls, flows, dependencies).
-Lets a model reason over execution instead of raw text.
-Goal: debugging + deep understanding, not autocomplete.
-
-**Low-latency LLM runtime**
-Custom setup for running 7B models locally.
-Focus on:
-
-* fast inference
-* memory efficiency
-* streaming + tool usage
-
-Making small models actually usable for real workflows.
+Also working on AI-native orchestration for blockchain infrastructure — validators, RPCs, indexers, sequencers — with human-in-the-loop controls.
 
 ---
 
-**Task Execution Engine**
-System where models don’t just suggest — they execute.
-Handles:
+### Previously
 
-* planning → action → verification loop
-* file system + API operations
-* failure recovery
-
-Goal: reliable agents, not demo agents.
+Senior Lead Protocol Engineer at Airchains  
+(zkFHE infrastructure + zkML oracles, production deployments)
 
 ---
 
-## Stack
+### Stack
 
-Go, Rust, TypeScript
-EVM, Cosmos SDK
-zk (Groth16, circuits)
-Distributed systems
-LLMs (local inference, systems-level integration)
+Rust · Go · TypeScript · Python  
+ZK circuits · FHE · EVM · Cosmos  
+Local LLMs · agent runtimes · distributed systems
 
 ---
 
-## Links
+### Links
 
-GitHub: https://github.com/Noooblien
-Email: [rsm050501@gmail.com](mailto:rsm050501@gmail.com)
+[GitHub](https://github.com/Noooblien) · [Email](mailto:rsm050501@gmail.com)
 
 ---
 

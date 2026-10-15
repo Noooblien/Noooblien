@@ -6,7 +6,7 @@ Building the trust layer for AI agents that actually execute.
 
 ### Currently
 
-**Lead Blockchain Engineer (AI + Web3)** @ InfraSingularity
+**Lead AI Engineer (AI + Web3)** @ InfraSingularity
 
 Cryptographic identity + intent-scoped authorization for multi-agent systems.  
 ZK-based proofs so agents can act, but only within hard boundaries that can be audited.
